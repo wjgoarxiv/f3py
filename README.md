@@ -24,7 +24,7 @@ Since the $F_3$ value cannot be 0 or 1 completely, the changes of $F_3$ values o
 ## Showcases
 
 #### **1. $F_3$ vs. Frame (raw)**
-| <img src='f3_vs_frame_raw.png' width=50%> |
+| <img src='https://github.com/wjgoarxiv/f3py/blob/949b7b7d30eaede7d2274e092dcb908c91a41435/f3_vs_frame_raw.png' width=50%> |
 |:---:|
 | You can see the raw $F_3$ values over the trajectory frames. There are some outlier values in some frames. |
 
