@@ -13,7 +13,7 @@ The $F_3$ order parameter is defined as:
 
 $F_3 = \langle (\cos\varphi_{BAC}|\cos\varphi_{BAC}| + \cos^2(104.52^{\circ}))^2 \rangle$
 
-where $\varphi_{BAC}$ is the angle between water oxygen A and two oxygens B and C in its neighbor shell. The value of the angle was set as __104.52°__ since the example GRO file contained _TIP4P 4-site water model_. You can freely change the angle value to 109.5° for the 3-site models like TIP3P, SPC, and SPC/E in the [`f3.ipynb`](f3.ipynb) notebook.
+where $\varphi_{BAC}$ is the angle between water oxygen A and two oxygens B and C in its neighbor shell. The value of the angle was set as __104.52°__ since the example GRO file contained _TIP4P 4-site water model_. You can freely change the angle value to 109.5° for the 3-site models like TIP3P, SPC, and SPC/E in the [`f3.ipynb`](https://github.com/wjgoarxiv/pyf3/blob/c423b788b4c0e89e072c9b5c851bcd72233da14b/f3.ipynb) notebook.
 
 The value of $F_3$ ranges from 0 to 1, with the following interpretations:
 - $F_3 \approx 0$: Complete ice or hydrate structure
